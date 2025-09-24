@@ -1,9 +1,7 @@
-#include "esp_camera.h"
-#include <WiFi.h>
-
-// Replace with your hotspot credentials
-const char* ssid = "YOUR_SSID";
-const char* password = "YOUR_PASSWORD";
+#include "esp8266.h"
+#include "wifi_config.h"
+const char* ssid = WIFI_SSID;
+const char* password = WIFI_PASS;
 
 void startCameraServer();
 
