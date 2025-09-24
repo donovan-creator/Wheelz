@@ -1,5 +1,8 @@
-#include "esp8266.h"
+#include "esp_camera.h"
+#include <WiFi.h>
+#include <ESPmDNS.h>
 #include "wifi_config.h"
+
 const char* ssid = WIFI_SSID;
 const char* password = WIFI_PASS;
 
@@ -19,8 +22,6 @@ void setup() {
 
   // Initialize camera
   camera_config_t config;
-  // (set up config with pins, resolution, etc.)
-  // Use ESP32-CAM example values for your board
 
   if (esp_camera_init(&config) != ESP_OK) {
     Serial.println("Camera init failed!");
