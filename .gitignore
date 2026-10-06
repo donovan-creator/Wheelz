@@ -1,2 +1,8 @@
 # Ignore wifi credentials
 wifi_config.h
+
+# Python / reinforcement-learning artifacts
+__pycache__/
+*.py[cod]
+.venv/
+**/reinforcement_learning/runs/

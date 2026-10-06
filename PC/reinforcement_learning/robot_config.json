@@ -1,0 +1,51 @@
+{
+  "robot": {
+    "track_width_m": 0.16632,
+    "track_width_basis": "estimate: 147.32 mm CAD body width + 19 mm wheel width",
+    "wheel_diameter_m": 0.043,
+    "wheel_width_m": 0.019,
+    "shaft_diameter_m": 0.003,
+    "chassis_width_m": 0.14732,
+    "chassis_length_m": 0.19939,
+    "body_radius_m": 0.124,
+    "max_wheel_speed_mps": 0.45,
+    "motor_time_constant_s": 0.16
+  },
+  "simulation": {
+    "control_dt_s": 0.1
+  },
+  "task": {
+    "world_half_extent_m": 2,
+    "goal_tolerance_m": 0.1,
+    "minimum_goal_distance_m": 0.5,
+    "max_episode_steps": 400,
+    "settled_speed_mps": 0.06,
+    "settle_steps": 3
+  },
+  "reward": {
+    "progress": 25,
+    "time": 0.02,
+    "switch": 0.025,
+    "effort": 0.005,
+    "success": 20,
+    "out_of_bounds": 10,
+    "near_goal_stop": 0.0,
+    "near_goal_motion": 0.1
+  },
+  "domain_randomization": {
+    "track_width_scale": [
+      0.94,
+      1.06
+    ],
+    "motor_strength_scale": [
+      0.88,
+      1.12
+    ],
+    "motor_tau_scale": [
+      0.75,
+      1.35
+    ],
+    "observation_noise_std": 0.003,
+    "max_action_delay_steps": 1
+  }
+}

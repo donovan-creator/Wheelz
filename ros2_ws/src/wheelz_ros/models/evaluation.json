@@ -1,0 +1,5478 @@
+{
+  "model": "C:\\Users\\donov\\Desktop\\stuff\\Career\\Projects\\Wheelz\\pc\\reinforcement_learning\\runs\\discrete_ppo_v2\\best\\best_model.zip",
+  "ppo": {
+    "episodes": 200,
+    "seed_start": 200000,
+    "randomized": true,
+    "successes": 200,
+    "success_rate": 1.0,
+    "success_95pct_interval": [
+      0.9811539940816791,
+      1.0
+    ],
+    "out_of_bounds": 0,
+    "timeouts": 0,
+    "mean_final_distance_m": 0.024377854951570955,
+    "mean_episode_seconds": 5.671,
+    "mean_return": 66.94045188880119,
+    "action_counts": [
+      1332,
+      8882,
+      0,
+      527,
+      601
+    ],
+    "records": [
+      {
+        "seed": 200000,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03449667610689207,
+        "seconds": 10.4,
+        "return": 110.70195542692397
+      },
+      {
+        "seed": 200001,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.0366091512241208,
+        "seconds": 2.2,
+        "return": 33.72950367345469
+      },
+      {
+        "seed": 200002,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04958040425652375,
+        "seconds": 5.2,
+        "return": 63.80973021135228
+      },
+      {
+        "seed": 200003,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.021104939729593254,
+        "seconds": 5.4,
+        "return": 61.71642217254246
+      },
+      {
+        "seed": 200004,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.021205323252291613,
+        "seconds": 8.0,
+        "return": 91.20244078949904
+      },
+      {
+        "seed": 200005,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03688241366767494,
+        "seconds": 2.7,
+        "return": 33.33897670870081
+      },
+      {
+        "seed": 200006,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.015064879366539134,
+        "seconds": 5.300000000000001,
+        "return": 58.35991357384813
+      },
+      {
+        "seed": 200007,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.06006875362619206,
+        "seconds": 6.6000000000000005,
+        "return": 77.2373490092535
+      },
+      {
+        "seed": 200008,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02308538650246474,
+        "seconds": 4.9,
+        "return": 58.13507203428233
+      },
+      {
+        "seed": 200009,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.012759411513116855,
+        "seconds": 8.8,
+        "return": 94.32247580972464
+      },
+      {
+        "seed": 200010,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02932711983179107,
+        "seconds": 4.3,
+        "return": 54.02167000947131
+      },
+      {
+        "seed": 200011,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.019817805030242695,
+        "seconds": 3.3000000000000003,
+        "return": 39.176688745438724
+      },
+      {
+        "seed": 200012,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.00887603824142428,
+        "seconds": 7.800000000000001,
+        "return": 83.21847576486044
+      },
+      {
+        "seed": 200013,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.005715444140656002,
+        "seconds": 3.6,
+        "return": 47.81662635967234
+      },
+      {
+        "seed": 200014,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03738580523690389,
+        "seconds": 4.7,
+        "return": 60.96028548822873
+      },
+      {
+        "seed": 200015,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.046969861756147306,
+        "seconds": 5.6000000000000005,
+        "return": 68.07091955488943
+      },
+      {
+        "seed": 200016,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01974020949842351,
+        "seconds": 7.4,
+        "return": 85.58314419000868
+      },
+      {
+        "seed": 200017,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.004992259334249786,
+        "seconds": 8.5,
+        "return": 95.4185411915514
+      },
+      {
+        "seed": 200018,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.017556504897071747,
+        "seconds": 5.0,
+        "return": 59.022783217258024
+      },
+      {
+        "seed": 200019,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.011312640385074282,
+        "seconds": 7.800000000000001,
+        "return": 96.10039020382189
+      },
+      {
+        "seed": 200020,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03788730980074857,
+        "seconds": 5.2,
+        "return": 64.30501046354775
+      },
+      {
+        "seed": 200021,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.043860258202876694,
+        "seconds": 5.9,
+        "return": 68.97704366756012
+      },
+      {
+        "seed": 200022,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.049623705076060294,
+        "seconds": 3.0,
+        "return": 43.27097781993589
+      },
+      {
+        "seed": 200023,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.0371457556849941,
+        "seconds": 3.8000000000000003,
+        "return": 48.76273400141375
+      },
+      {
+        "seed": 200024,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.037283845155013,
+        "seconds": 3.9000000000000004,
+        "return": 52.13727752730222
+      },
+      {
+        "seed": 200025,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03856060236422868,
+        "seconds": 7.1000000000000005,
+        "return": 76.79216359280392
+      },
+      {
+        "seed": 200026,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.012112608525377357,
+        "seconds": 5.6000000000000005,
+        "return": 64.49128516272054
+      },
+      {
+        "seed": 200027,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.010319712958049239,
+        "seconds": 7.5,
+        "return": 82.73327657264858
+      },
+      {
+        "seed": 200028,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.019325013876212317,
+        "seconds": 3.9000000000000004,
+        "return": 50.07148771499319
+      },
+      {
+        "seed": 200029,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03985265848762166,
+        "seconds": 5.6000000000000005,
+        "return": 67.98446154078253
+      },
+      {
+        "seed": 200030,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.024878959922763393,
+        "seconds": 8.1,
+        "return": 84.11662648227977
+      },
+      {
+        "seed": 200031,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.027907863186631472,
+        "seconds": 8.700000000000001,
+        "return": 90.72799147379666
+      },
+      {
+        "seed": 200032,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04266036101515796,
+        "seconds": 6.6000000000000005,
+        "return": 83.22480887434406
+      },
+      {
+        "seed": 200033,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01630229377786583,
+        "seconds": 4.4,
+        "return": 53.64619433026181
+      },
+      {
+        "seed": 200034,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.022524110584900992,
+        "seconds": 5.9,
+        "return": 71.69337557164248
+      },
+      {
+        "seed": 200035,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.010567026700928498,
+        "seconds": 3.9000000000000004,
+        "return": 47.90818759251505
+      },
+      {
+        "seed": 200036,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.0065399326532125,
+        "seconds": 5.7,
+        "return": 60.75467815660221
+      },
+      {
+        "seed": 200037,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.046780443883042755,
+        "seconds": 8.700000000000001,
+        "return": 95.05775961488493
+      },
+      {
+        "seed": 200038,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02719871380120504,
+        "seconds": 5.5,
+        "return": 64.21462922260879
+      },
+      {
+        "seed": 200039,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.039402580294505905,
+        "seconds": 8.5,
+        "return": 89.90159849678338
+      },
+      {
+        "seed": 200040,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.05669080324382464,
+        "seconds": 7.1000000000000005,
+        "return": 82.42974898090226
+      },
+      {
+        "seed": 200041,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.036684160917546046,
+        "seconds": 2.8000000000000003,
+        "return": 43.79994471587173
+      },
+      {
+        "seed": 200042,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.028532421820763983,
+        "seconds": 2.7,
+        "return": 36.5665653812112
+      },
+      {
+        "seed": 200043,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.025145307782584107,
+        "seconds": 3.2,
+        "return": 38.33387663603116
+      },
+      {
+        "seed": 200044,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.005390036408984222,
+        "seconds": 7.0,
+        "return": 76.32467402648332
+      },
+      {
+        "seed": 200045,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04365078226469205,
+        "seconds": 7.800000000000001,
+        "return": 82.4160969524665
+      },
+      {
+        "seed": 200046,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.017916901086029637,
+        "seconds": 6.5,
+        "return": 75.0946780508026
+      },
+      {
+        "seed": 200047,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02334837023657567,
+        "seconds": 5.2,
+        "return": 61.34596354597896
+      },
+      {
+        "seed": 200048,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.019647909180097366,
+        "seconds": 9.4,
+        "return": 105.52484549498848
+      },
+      {
+        "seed": 200049,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.012938537866886618,
+        "seconds": 4.1000000000000005,
+        "return": 53.61500351934198
+      },
+      {
+        "seed": 200050,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.024306034278465397,
+        "seconds": 6.5,
+        "return": 71.35069209578731
+      },
+      {
+        "seed": 200051,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.010611695900674704,
+        "seconds": 8.5,
+        "return": 98.45674496098925
+      },
+      {
+        "seed": 200052,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.022468433125135717,
+        "seconds": 4.800000000000001,
+        "return": 59.532506431163924
+      },
+      {
+        "seed": 200053,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.026846848425771445,
+        "seconds": 5.800000000000001,
+        "return": 74.77110056522577
+      },
+      {
+        "seed": 200054,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.012786972923216951,
+        "seconds": 3.2,
+        "return": 43.03990044167709
+      },
+      {
+        "seed": 200055,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.009869945015017138,
+        "seconds": 7.1000000000000005,
+        "return": 75.83344118965465
+      },
+      {
+        "seed": 200056,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.011010399598767397,
+        "seconds": 3.0,
+        "return": 41.19856536601691
+      },
+      {
+        "seed": 200057,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.027276276350059237,
+        "seconds": 6.5,
+        "return": 68.13057370543856
+      },
+      {
+        "seed": 200058,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01205048079663164,
+        "seconds": 3.1,
+        "return": 39.46220216318572
+      },
+      {
+        "seed": 200059,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01941176068032751,
+        "seconds": 5.1000000000000005,
+        "return": 60.91078208360602
+      },
+      {
+        "seed": 200060,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.018894932918704165,
+        "seconds": 7.4,
+        "return": 88.3291528664279
+      },
+      {
+        "seed": 200061,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04966802340022433,
+        "seconds": 5.300000000000001,
+        "return": 68.18219031664566
+      },
+      {
+        "seed": 200062,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.019735759070742258,
+        "seconds": 5.2,
+        "return": 57.47135492829443
+      },
+      {
+        "seed": 200063,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.010804767191059102,
+        "seconds": 3.4000000000000004,
+        "return": 43.80717143006383
+      },
+      {
+        "seed": 200064,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02384072112607045,
+        "seconds": 4.2,
+        "return": 51.34797626804395
+      },
+      {
+        "seed": 200065,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.023842572630511073,
+        "seconds": 5.800000000000001,
+        "return": 68.48480246576099
+      },
+      {
+        "seed": 200066,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03442189341744528,
+        "seconds": 9.4,
+        "return": 108.7576952961285
+      },
+      {
+        "seed": 200067,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03259068203492556,
+        "seconds": 3.9000000000000004,
+        "return": 43.71225573828642
+      },
+      {
+        "seed": 200068,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.025940653391981677,
+        "seconds": 2.6,
+        "return": 33.999563524415024
+      },
+      {
+        "seed": 200069,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02022805234858793,
+        "seconds": 2.7,
+        "return": 35.25722700087583
+      },
+      {
+        "seed": 200070,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04012750945438348,
+        "seconds": 5.9,
+        "return": 74.14629555534512
+      },
+      {
+        "seed": 200071,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01118213325028353,
+        "seconds": 6.5,
+        "return": 80.75759089954252
+      },
+      {
+        "seed": 200072,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.028031205293745382,
+        "seconds": 2.5,
+        "return": 31.672419707106577
+      },
+      {
+        "seed": 200073,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.034207473013146,
+        "seconds": 8.8,
+        "return": 98.43267565907603
+      },
+      {
+        "seed": 200074,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.009533435083727693,
+        "seconds": 9.4,
+        "return": 103.59123136007874
+      },
+      {
+        "seed": 200075,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03351499673264943,
+        "seconds": 5.7,
+        "return": 69.68140512433638
+      },
+      {
+        "seed": 200076,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.009121252283895872,
+        "seconds": 5.4,
+        "return": 62.23045589830449
+      },
+      {
+        "seed": 200077,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.024851651431064603,
+        "seconds": 5.800000000000001,
+        "return": 70.02361176195721
+      },
+      {
+        "seed": 200078,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.033894931110567614,
+        "seconds": 8.5,
+        "return": 99.7938572687117
+      },
+      {
+        "seed": 200079,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.010589909859787238,
+        "seconds": 3.5,
+        "return": 42.77330601093121
+      },
+      {
+        "seed": 200080,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.017413988698180224,
+        "seconds": 6.0,
+        "return": 66.41896741946807
+      },
+      {
+        "seed": 200081,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.020850028296826754,
+        "seconds": 8.8,
+        "return": 101.82631531660212
+      },
+      {
+        "seed": 200082,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.020795473146659884,
+        "seconds": 4.6000000000000005,
+        "return": 55.82242048659441
+      },
+      {
+        "seed": 200083,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.034051155734208916,
+        "seconds": 3.7,
+        "return": 48.933458233552315
+      },
+      {
+        "seed": 200084,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.038003425571319124,
+        "seconds": 4.5,
+        "return": 57.32858614927295
+      },
+      {
+        "seed": 200085,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.003899752003048886,
+        "seconds": 8.200000000000001,
+        "return": 95.10943630860433
+      },
+      {
+        "seed": 200086,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02026888833104109,
+        "seconds": 6.0,
+        "return": 73.58049143667456
+      },
+      {
+        "seed": 200087,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.018890659476659924,
+        "seconds": 6.800000000000001,
+        "return": 72.2943094352526
+      },
+      {
+        "seed": 200088,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.014226801507399302,
+        "seconds": 5.9,
+        "return": 73.59084399349787
+      },
+      {
+        "seed": 200089,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.050942427346291425,
+        "seconds": 7.4,
+        "return": 86.61501639059217
+      },
+      {
+        "seed": 200090,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02571667435453291,
+        "seconds": 5.800000000000001,
+        "return": 63.198017757334824
+      },
+      {
+        "seed": 200091,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04339406772609839,
+        "seconds": 2.3000000000000003,
+        "return": 36.578571753044656
+      },
+      {
+        "seed": 200092,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.022516198874608373,
+        "seconds": 7.0,
+        "return": 81.1463439310939
+      },
+      {
+        "seed": 200093,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03197167992489496,
+        "seconds": 4.2,
+        "return": 53.794050723254934
+      },
+      {
+        "seed": 200094,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.032384463661487284,
+        "seconds": 2.5,
+        "return": 38.481551287927296
+      },
+      {
+        "seed": 200095,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.009663935462202388,
+        "seconds": 6.1000000000000005,
+        "return": 75.4804571860545
+      },
+      {
+        "seed": 200096,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.025182998737509017,
+        "seconds": 4.3,
+        "return": 51.036672538338365
+      },
+      {
+        "seed": 200097,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.027516484797270008,
+        "seconds": 6.0,
+        "return": 65.29043994883182
+      },
+      {
+        "seed": 200098,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.018974817038379183,
+        "seconds": 7.2,
+        "return": 86.19744945805415
+      },
+      {
+        "seed": 200099,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02374227333937152,
+        "seconds": 5.5,
+        "return": 57.56397530912262
+      },
+      {
+        "seed": 200100,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.003521297757466868,
+        "seconds": 5.800000000000001,
+        "return": 66.43980630821744
+      },
+      {
+        "seed": 200101,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.0418615432059549,
+        "seconds": 4.1000000000000005,
+        "return": 50.593045403524414
+      },
+      {
+        "seed": 200102,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.00852326679801493,
+        "seconds": 3.4000000000000004,
+        "return": 41.168787041523416
+      },
+      {
+        "seed": 200103,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.009626310668470167,
+        "seconds": 7.800000000000001,
+        "return": 93.66662007722815
+      },
+      {
+        "seed": 200104,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03644968763595472,
+        "seconds": 4.7,
+        "return": 52.785024737762605
+      },
+      {
+        "seed": 200105,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.033533941703846215,
+        "seconds": 2.9000000000000004,
+        "return": 39.037150962109926
+      },
+      {
+        "seed": 200106,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02609408896394082,
+        "seconds": 4.2,
+        "return": 54.160370091621694
+      },
+      {
+        "seed": 200107,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.035171676668953586,
+        "seconds": 5.800000000000001,
+        "return": 72.64810892957506
+      },
+      {
+        "seed": 200108,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01696245554193841,
+        "seconds": 6.2,
+        "return": 67.23141348525606
+      },
+      {
+        "seed": 200109,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.032419107206282854,
+        "seconds": 8.8,
+        "return": 102.63986025380358
+      },
+      {
+        "seed": 200110,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.005400571220689468,
+        "seconds": 3.4000000000000004,
+        "return": 41.04511146294037
+      },
+      {
+        "seed": 200111,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03484692836477387,
+        "seconds": 5.1000000000000005,
+        "return": 69.1290946120493
+      },
+      {
+        "seed": 200112,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01626979905843,
+        "seconds": 7.800000000000001,
+        "return": 93.22608444039729
+      },
+      {
+        "seed": 200113,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.029549044455524323,
+        "seconds": 5.9,
+        "return": 67.37003871912879
+      },
+      {
+        "seed": 200114,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.013741065538723068,
+        "seconds": 6.5,
+        "return": 72.49735631632603
+      },
+      {
+        "seed": 200115,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.030327833980721683,
+        "seconds": 7.0,
+        "return": 85.73949848219327
+      },
+      {
+        "seed": 200116,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.019082117400433977,
+        "seconds": 6.0,
+        "return": 70.8921954449495
+      },
+      {
+        "seed": 200117,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.026575288862848646,
+        "seconds": 4.1000000000000005,
+        "return": 48.81105615160958
+      },
+      {
+        "seed": 200118,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.023068454326183055,
+        "seconds": 5.4,
+        "return": 67.35728804797097
+      },
+      {
+        "seed": 200119,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.030919811044711226,
+        "seconds": 4.6000000000000005,
+        "return": 56.25526192278008
+      },
+      {
+        "seed": 200120,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.009951597391087212,
+        "seconds": 3.4000000000000004,
+        "return": 39.09617366878436
+      },
+      {
+        "seed": 200121,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.017703841272275977,
+        "seconds": 3.8000000000000003,
+        "return": 46.20265789099912
+      },
+      {
+        "seed": 200122,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01892849831936057,
+        "seconds": 2.7,
+        "return": 35.552466546878115
+      },
+      {
+        "seed": 200123,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.0010055915502667418,
+        "seconds": 9.1,
+        "return": 94.346010965153
+      },
+      {
+        "seed": 200124,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04200132274951623,
+        "seconds": 10.0,
+        "return": 110.32005856956542
+      },
+      {
+        "seed": 200125,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.013639750197211075,
+        "seconds": 3.0,
+        "return": 39.12646131180944
+      },
+      {
+        "seed": 200126,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01943550111104271,
+        "seconds": 5.300000000000001,
+        "return": 56.93555676790192
+      },
+      {
+        "seed": 200127,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.027275154943558984,
+        "seconds": 6.300000000000001,
+        "return": 79.3092695031083
+      },
+      {
+        "seed": 200128,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.014340791969685974,
+        "seconds": 2.3000000000000003,
+        "return": 35.46703886678978
+      },
+      {
+        "seed": 200129,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.028467203498751047,
+        "seconds": 2.9000000000000004,
+        "return": 36.37418547060072
+      },
+      {
+        "seed": 200130,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.0043166419265303355,
+        "seconds": 4.3,
+        "return": 51.17190141922678
+      },
+      {
+        "seed": 200131,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03047776872640754,
+        "seconds": 5.800000000000001,
+        "return": 66.50324934958437
+      },
+      {
+        "seed": 200132,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.022207695151241665,
+        "seconds": 6.300000000000001,
+        "return": 74.04269675650932
+      },
+      {
+        "seed": 200133,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.018498601849714955,
+        "seconds": 8.6,
+        "return": 95.03804915739721
+      },
+      {
+        "seed": 200134,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.032397715307496425,
+        "seconds": 3.5,
+        "return": 50.41353669582758
+      },
+      {
+        "seed": 200135,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.028855928119356753,
+        "seconds": 3.5,
+        "return": 41.703477026724045
+      },
+      {
+        "seed": 200136,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.024750247783379208,
+        "seconds": 2.6,
+        "return": 32.8765878805995
+      },
+      {
+        "seed": 200137,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.020139387864876093,
+        "seconds": 7.5,
+        "return": 83.96470564255986
+      },
+      {
+        "seed": 200138,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.006754931196460028,
+        "seconds": 6.2,
+        "return": 71.37195730145064
+      },
+      {
+        "seed": 200139,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.009979682714011867,
+        "seconds": 5.800000000000001,
+        "return": 69.04017410948269
+      },
+      {
+        "seed": 200140,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.024659024131111953,
+        "seconds": 2.7,
+        "return": 38.71288343820065
+      },
+      {
+        "seed": 200141,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.019980848933620253,
+        "seconds": 6.5,
+        "return": 71.67389252832717
+      },
+      {
+        "seed": 200142,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.013969213323854713,
+        "seconds": 5.800000000000001,
+        "return": 68.39444462302623
+      },
+      {
+        "seed": 200143,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03655580693604571,
+        "seconds": 3.3000000000000003,
+        "return": 38.413532455908296
+      },
+      {
+        "seed": 200144,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.019425608277267872,
+        "seconds": 3.2,
+        "return": 41.48752378073648
+      },
+      {
+        "seed": 200145,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.011687341299092465,
+        "seconds": 4.7,
+        "return": 55.316939531533194
+      },
+      {
+        "seed": 200146,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04796877164522892,
+        "seconds": 10.4,
+        "return": 107.8982025643891
+      },
+      {
+        "seed": 200147,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02729462464442985,
+        "seconds": 3.7,
+        "return": 48.44074832106301
+      },
+      {
+        "seed": 200148,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.025270003071761114,
+        "seconds": 8.700000000000001,
+        "return": 102.21221763975291
+      },
+      {
+        "seed": 200149,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03050589718721315,
+        "seconds": 9.200000000000001,
+        "return": 116.0796260548116
+      },
+      {
+        "seed": 200150,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01653650712656397,
+        "seconds": 3.9000000000000004,
+        "return": 51.64948547421274
+      },
+      {
+        "seed": 200151,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03636605432943137,
+        "seconds": 5.1000000000000005,
+        "return": 61.53817885068609
+      },
+      {
+        "seed": 200152,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.011924769297547834,
+        "seconds": 9.600000000000001,
+        "return": 101.93111964217006
+      },
+      {
+        "seed": 200153,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.01056464280547678,
+        "seconds": 6.0,
+        "return": 76.66726375355103
+      },
+      {
+        "seed": 200154,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02588303436871825,
+        "seconds": 5.300000000000001,
+        "return": 67.89813172496319
+      },
+      {
+        "seed": 200155,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02592594740964849,
+        "seconds": 6.6000000000000005,
+        "return": 71.32306494486835
+      },
+      {
+        "seed": 200156,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.022135556361713375,
+        "seconds": 6.6000000000000005,
+        "return": 73.2154419599089
+      },
+      {
+        "seed": 200157,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.016265888978282884,
+        "seconds": 7.2,
+        "return": 92.3088212752493
+      },
+      {
+        "seed": 200158,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.012679141570458113,
+        "seconds": 4.7,
+        "return": 58.5990074648272
+      },
+      {
+        "seed": 200159,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04572254135100673,
+        "seconds": 6.6000000000000005,
+        "return": 80.64564466496695
+      },
+      {
+        "seed": 200160,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03678400027402468,
+        "seconds": 4.7,
+        "return": 55.232259721229724
+      },
+      {
+        "seed": 200161,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.00177338599776098,
+        "seconds": 4.7,
+        "return": 57.43246368892767
+      },
+      {
+        "seed": 200162,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.011689932227055803,
+        "seconds": 3.9000000000000004,
+        "return": 47.41912215725948
+      },
+      {
+        "seed": 200163,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.027751482665970877,
+        "seconds": 5.6000000000000005,
+        "return": 74.12005701809836
+      },
+      {
+        "seed": 200164,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.019378609287998654,
+        "seconds": 4.7,
+        "return": 54.30450499218989
+      },
+      {
+        "seed": 200165,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02215556382327987,
+        "seconds": 2.4000000000000004,
+        "return": 38.83450807885097
+      },
+      {
+        "seed": 200166,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.045523497428027686,
+        "seconds": 6.0,
+        "return": 71.10705925873572
+      },
+      {
+        "seed": 200167,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.036093879041640464,
+        "seconds": 8.5,
+        "return": 92.96099936041601
+      },
+      {
+        "seed": 200168,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.019671491646193997,
+        "seconds": 7.800000000000001,
+        "return": 88.04351403087838
+      },
+      {
+        "seed": 200169,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.010164644194077557,
+        "seconds": 3.7,
+        "return": 41.571922412098914
+      },
+      {
+        "seed": 200170,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.021662444292724955,
+        "seconds": 7.1000000000000005,
+        "return": 81.2236380408495
+      },
+      {
+        "seed": 200171,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.022272102660026563,
+        "seconds": 4.0,
+        "return": 52.311556062806886
+      },
+      {
+        "seed": 200172,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.029259794248788672,
+        "seconds": 2.2,
+        "return": 31.11277555741723
+      },
+      {
+        "seed": 200173,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03865522024586588,
+        "seconds": 6.4,
+        "return": 71.3520061383243
+      },
+      {
+        "seed": 200174,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.026701009921324688,
+        "seconds": 4.1000000000000005,
+        "return": 51.72834452516719
+      },
+      {
+        "seed": 200175,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.025238394048373615,
+        "seconds": 8.8,
+        "return": 103.70344503887316
+      },
+      {
+        "seed": 200176,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.035917426132599455,
+        "seconds": 5.2,
+        "return": 64.71933375997325
+      },
+      {
+        "seed": 200177,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.035713335900242935,
+        "seconds": 8.6,
+        "return": 99.6318839309257
+      },
+      {
+        "seed": 200178,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.015539475228784287,
+        "seconds": 2.1,
+        "return": 32.595610409714865
+      },
+      {
+        "seed": 200179,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.007765851193294782,
+        "seconds": 7.1000000000000005,
+        "return": 86.00627986284084
+      },
+      {
+        "seed": 200180,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.013651714159706224,
+        "seconds": 8.8,
+        "return": 94.31453353148322
+      },
+      {
+        "seed": 200181,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.023978235474065867,
+        "seconds": 3.7,
+        "return": 42.58194643968098
+      },
+      {
+        "seed": 200182,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04025650895003392,
+        "seconds": 5.300000000000001,
+        "return": 67.84739572070328
+      },
+      {
+        "seed": 200183,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.024931380945349236,
+        "seconds": 5.4,
+        "return": 58.95655716684698
+      },
+      {
+        "seed": 200184,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.022181156759310573,
+        "seconds": 6.300000000000001,
+        "return": 76.0499997707174
+      },
+      {
+        "seed": 200185,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.02459983267735779,
+        "seconds": 3.5,
+        "return": 44.224274190752695
+      },
+      {
+        "seed": 200186,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.053341215982241154,
+        "seconds": 7.9,
+        "return": 93.10560969105418
+      },
+      {
+        "seed": 200187,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.007089397830971118,
+        "seconds": 8.6,
+        "return": 95.71273620117988
+      },
+      {
+        "seed": 200188,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.027476106534243507,
+        "seconds": 7.800000000000001,
+        "return": 98.18773143769033
+      },
+      {
+        "seed": 200189,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.034576457181899965,
+        "seconds": 4.800000000000001,
+        "return": 56.54388248150095
+      },
+      {
+        "seed": 200190,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.022053847516425265,
+        "seconds": 2.6,
+        "return": 32.80133916924944
+      },
+      {
+        "seed": 200191,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.042717626670070716,
+        "seconds": 6.9,
+        "return": 79.74499328267319
+      },
+      {
+        "seed": 200192,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.020830116518095035,
+        "seconds": 5.0,
+        "return": 55.088357016023444
+      },
+      {
+        "seed": 200193,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.024043655332475274,
+        "seconds": 4.3,
+        "return": 52.41924103243565
+      },
+      {
+        "seed": 200194,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.007509786341065869,
+        "seconds": 8.6,
+        "return": 99.78331419188106
+      },
+      {
+        "seed": 200195,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.020157950067319193,
+        "seconds": 6.9,
+        "return": 79.71022288551296
+      },
+      {
+        "seed": 200196,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.014486855836329455,
+        "seconds": 7.9,
+        "return": 92.95685938136589
+      },
+      {
+        "seed": 200197,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.016369540479406076,
+        "seconds": 4.2,
+        "return": 48.31406729921251
+      },
+      {
+        "seed": 200198,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.03237072767103381,
+        "seconds": 6.4,
+        "return": 68.7730887759444
+      },
+      {
+        "seed": 200199,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.021546359311832918,
+        "seconds": 10.4,
+        "return": 116.01493309914555
+      }
+    ]
+  },
+  "random": {
+    "episodes": 200,
+    "seed_start": 200000,
+    "randomized": true,
+    "successes": 0,
+    "success_rate": 0.0,
+    "success_95pct_interval": [
+      0.0,
+      0.018846005918320894
+    ],
+    "out_of_bounds": 18,
+    "timeouts": 182,
+    "mean_final_distance_m": 2.006783917742264,
+    "mean_episode_seconds": 38.1475,
+    "mean_return": -18.56127468096613,
+    "action_counts": [
+      15309,
+      15091,
+      15215,
+      15189,
+      15491
+    ],
+    "records": [
+      {
+        "seed": 200000,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.5115037677745056,
+        "seconds": 40.0,
+        "return": -10.858221864766353
+      },
+      {
+        "seed": 200001,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.7680295657619622,
+        "seconds": 40.0,
+        "return": -21.701006689991356
+      },
+      {
+        "seed": 200002,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.041950692872291,
+        "seconds": 40.0,
+        "return": -21.799527004041902
+      },
+      {
+        "seed": 200003,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.6511217648728909,
+        "seconds": 40.0,
+        "return": -15.158998456039999
+      },
+      {
+        "seed": 200004,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.690760464459143,
+        "seconds": 40.0,
+        "return": -11.066437740672253
+      },
+      {
+        "seed": 200005,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 0.8921523875075088,
+        "seconds": 11.3,
+        "return": -21.96277263729503
+      },
+      {
+        "seed": 200006,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.703916628388846,
+        "seconds": 40.0,
+        "return": -19.50138015170953
+      },
+      {
+        "seed": 200007,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.011226123203358,
+        "seconds": 40.0,
+        "return": -7.101585230175662
+      },
+      {
+        "seed": 200008,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.123415208748631,
+        "seconds": 40.0,
+        "return": -30.53317352187188
+      },
+      {
+        "seed": 200009,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.8705813949330294,
+        "seconds": 40.0,
+        "return": -11.668073775773163
+      },
+      {
+        "seed": 200010,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.7517894928220472,
+        "seconds": 40.0,
+        "return": -25.27488931528505
+      },
+      {
+        "seed": 200011,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8964018915335233,
+        "seconds": 40.0,
+        "return": -19.177913417143305
+      },
+      {
+        "seed": 200012,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.5079201538830675,
+        "seconds": 40.0,
+        "return": -14.417627126180651
+      },
+      {
+        "seed": 200013,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3821173846506158,
+        "seconds": 40.0,
+        "return": -22.403422153076633
+      },
+      {
+        "seed": 200014,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.2966855417328396,
+        "seconds": 40.0,
+        "return": -6.977207924169665
+      },
+      {
+        "seed": 200015,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8515994709424966,
+        "seconds": 40.0,
+        "return": -13.144820674769292
+      },
+      {
+        "seed": 200016,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.0224670986760436,
+        "seconds": 40.0,
+        "return": -24.815028039431827
+      },
+      {
+        "seed": 200017,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 3.525443057317022,
+        "seconds": 8.5,
+        "return": -23.9577287580179
+      },
+      {
+        "seed": 200018,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.5455897952990165,
+        "seconds": 40.0,
+        "return": -15.518049042790583
+      },
+      {
+        "seed": 200019,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.42661251475234,
+        "seconds": 40.0,
+        "return": 0.7078933446402297
+      },
+      {
+        "seed": 200020,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.8117234397042394,
+        "seconds": 40.0,
+        "return": -41.04089278403955
+      },
+      {
+        "seed": 200021,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8795738887656792,
+        "seconds": 40.0,
+        "return": -12.850797096509973
+      },
+      {
+        "seed": 200022,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0146657622194821,
+        "seconds": 40.0,
+        "return": -17.24007360864967
+      },
+      {
+        "seed": 200023,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.074575753318923,
+        "seconds": 40.0,
+        "return": -13.683015939434458
+      },
+      {
+        "seed": 200024,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.7924455859789716,
+        "seconds": 40.0,
+        "return": -27.966765993296747
+      },
+      {
+        "seed": 200025,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0350222223534487,
+        "seconds": 40.0,
+        "return": -8.834376906926604
+      },
+      {
+        "seed": 200026,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.58909643928462,
+        "seconds": 40.0,
+        "return": -35.72331060626053
+      },
+      {
+        "seed": 200027,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.778640467543607,
+        "seconds": 40.0,
+        "return": -21.8597422919904
+      },
+      {
+        "seed": 200028,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.1282875361085658,
+        "seconds": 40.0,
+        "return": -14.342575340815662
+      },
+      {
+        "seed": 200029,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.5440176944843336,
+        "seconds": 40.0,
+        "return": -5.729664359135264
+      },
+      {
+        "seed": 200030,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 3.054949981723233,
+        "seconds": 9.9,
+        "return": -23.610149062732
+      },
+      {
+        "seed": 200031,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.120728053064529,
+        "seconds": 40.0,
+        "return": -21.767513273150808
+      },
+      {
+        "seed": 200032,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 2.987271767533805,
+        "seconds": 16.3,
+        "return": -25.870476288622108
+      },
+      {
+        "seed": 200033,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.9196085807775203,
+        "seconds": 40.0,
+        "return": -29.92146284472953
+      },
+      {
+        "seed": 200034,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6971099871553486,
+        "seconds": 40.0,
+        "return": 19.22872865738129
+      },
+      {
+        "seed": 200035,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3964226365855579,
+        "seconds": 40.0,
+        "return": -23.348202654600684
+      },
+      {
+        "seed": 200036,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.817772661780129,
+        "seconds": 40.0,
+        "return": -20.196140071570696
+      },
+      {
+        "seed": 200037,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.6701538289907605,
+        "seconds": 40.0,
+        "return": -5.576575012807996
+      },
+      {
+        "seed": 200038,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 2.198147716079936,
+        "seconds": 4.5,
+        "return": -20.434095834359482
+      },
+      {
+        "seed": 200039,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.594371791411252,
+        "seconds": 40.0,
+        "return": -8.912631781135275
+      },
+      {
+        "seed": 200040,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.8846398566339273,
+        "seconds": 40.0,
+        "return": -23.86397735385033
+      },
+      {
+        "seed": 200041,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.152962630760422,
+        "seconds": 40.0,
+        "return": -20.817017030200184
+      },
+      {
+        "seed": 200042,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.5041714634537702,
+        "seconds": 40.0,
+        "return": -12.249410659613961
+      },
+      {
+        "seed": 200043,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6517720718380813,
+        "seconds": 40.0,
+        "return": -13.701792465356267
+      },
+      {
+        "seed": 200044,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.3957712888457086,
+        "seconds": 40.0,
+        "return": -18.699857284434824
+      },
+      {
+        "seed": 200045,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.660534489314375,
+        "seconds": 40.0,
+        "return": -18.135995723775597
+      },
+      {
+        "seed": 200046,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.5379950781444864,
+        "seconds": 40.0,
+        "return": -23.38727637565883
+      },
+      {
+        "seed": 200047,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0926355351266108,
+        "seconds": 40.0,
+        "return": -1.6212155762719171
+      },
+      {
+        "seed": 200048,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 4.063936878289592,
+        "seconds": 40.0,
+        "return": -30.45237873274896
+      },
+      {
+        "seed": 200049,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.5736185526824942,
+        "seconds": 40.0,
+        "return": -21.871996851048216
+      },
+      {
+        "seed": 200050,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.5444286206789433,
+        "seconds": 40.0,
+        "return": -27.24237256422468
+      },
+      {
+        "seed": 200051,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.848294133388961,
+        "seconds": 40.0,
+        "return": -7.540315976217913
+      },
+      {
+        "seed": 200052,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.913818057258792,
+        "seconds": 40.0,
+        "return": -24.066234172177495
+      },
+      {
+        "seed": 200053,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.205475317658529,
+        "seconds": 40.0,
+        "return": -40.794611165593196
+      },
+      {
+        "seed": 200054,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8039238724133395,
+        "seconds": 40.0,
+        "return": -13.363522045575957
+      },
+      {
+        "seed": 200055,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.312342580585235,
+        "seconds": 40.0,
+        "return": -17.413374699600837
+      },
+      {
+        "seed": 200056,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.9710563324169575,
+        "seconds": 40.0,
+        "return": -19.05258295443783
+      },
+      {
+        "seed": 200057,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8602947741407279,
+        "seconds": 40.0,
+        "return": -13.23988873932816
+      },
+      {
+        "seed": 200058,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.7234628921979313,
+        "seconds": 40.0,
+        "return": -14.83310812184676
+      },
+      {
+        "seed": 200059,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 1.1711620185419014,
+        "seconds": 19.1,
+        "return": -4.992974362933342
+      },
+      {
+        "seed": 200060,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0976075312902274,
+        "seconds": 40.0,
+        "return": 1.4113379071398382
+      },
+      {
+        "seed": 200061,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.784494374088585,
+        "seconds": 40.0,
+        "return": -36.51346845056333
+      },
+      {
+        "seed": 200062,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.518578324161027,
+        "seconds": 40.0,
+        "return": -16.13970919896269
+      },
+      {
+        "seed": 200063,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6305591420386216,
+        "seconds": 40.0,
+        "return": -8.196687941125235
+      },
+      {
+        "seed": 200064,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.892646604762517,
+        "seconds": 40.0,
+        "return": -31.582170822867184
+      },
+      {
+        "seed": 200065,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 2.661771593635507,
+        "seconds": 31.700000000000003,
+        "return": -39.533423059363926
+      },
+      {
+        "seed": 200066,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.5330804459566485,
+        "seconds": 40.0,
+        "return": -13.203768517351635
+      },
+      {
+        "seed": 200067,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.530728421139163,
+        "seconds": 40.0,
+        "return": -30.0961877393195
+      },
+      {
+        "seed": 200068,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8734800675146398,
+        "seconds": 40.0,
+        "return": -23.768921828651425
+      },
+      {
+        "seed": 200069,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0119047605930085,
+        "seconds": 40.0,
+        "return": -26.244690705234678
+      },
+      {
+        "seed": 200070,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.2890225149222294,
+        "seconds": 40.0,
+        "return": -17.72107958135107
+      },
+      {
+        "seed": 200071,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.249044696059673,
+        "seconds": 40.0,
+        "return": -11.023973170692237
+      },
+      {
+        "seed": 200072,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6325700462279851,
+        "seconds": 40.0,
+        "return": -20.301051316249406
+      },
+      {
+        "seed": 200073,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.570910943886078,
+        "seconds": 40.0,
+        "return": -25.26491111274729
+      },
+      {
+        "seed": 200074,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.335934443907945,
+        "seconds": 40.0,
+        "return": -14.383793860526753
+      },
+      {
+        "seed": 200075,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.3510081477296847,
+        "seconds": 40.0,
+        "return": -23.975923650589547
+      },
+      {
+        "seed": 200076,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.1477215958821216,
+        "seconds": 40.0,
+        "return": -26.769552691651153
+      },
+      {
+        "seed": 200077,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.2134593710385944,
+        "seconds": 40.0,
+        "return": -20.576581228231028
+      },
+      {
+        "seed": 200078,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 3.4540635202916574,
+        "seconds": 11.9,
+        "return": -18.515357460815586
+      },
+      {
+        "seed": 200079,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8244996874935677,
+        "seconds": 40.0,
+        "return": -38.87943842991329
+      },
+      {
+        "seed": 200080,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.3396377798467785,
+        "seconds": 40.0,
+        "return": -27.411627359246925
+      },
+      {
+        "seed": 200081,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 3.2471428201866366,
+        "seconds": 11.200000000000001,
+        "return": -11.136004480643134
+      },
+      {
+        "seed": 200082,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.856864271553558,
+        "seconds": 40.0,
+        "return": -26.41429947357802
+      },
+      {
+        "seed": 200083,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.362151163267344,
+        "seconds": 40.0,
+        "return": -20.319041954776058
+      },
+      {
+        "seed": 200084,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.2106865327314242,
+        "seconds": 40.0,
+        "return": -33.32349152972971
+      },
+      {
+        "seed": 200085,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.0117768461068146,
+        "seconds": 40.0,
+        "return": -14.962491043989798
+      },
+      {
+        "seed": 200086,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.9019882180696832,
+        "seconds": 40.0,
+        "return": -9.192491806791491
+      },
+      {
+        "seed": 200087,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8182135208551624,
+        "seconds": 40.0,
+        "return": -8.278762099209965
+      },
+      {
+        "seed": 200088,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3478771325242136,
+        "seconds": 40.0,
+        "return": 4.314585718077516
+      },
+      {
+        "seed": 200089,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.6114431876877706,
+        "seconds": 40.0,
+        "return": -12.912502617944844
+      },
+      {
+        "seed": 200090,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.1487636169328104,
+        "seconds": 40.0,
+        "return": -25.608155807122095
+      },
+      {
+        "seed": 200091,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 1.0397346650942891,
+        "seconds": 12.200000000000001,
+        "return": -23.15494318116012
+      },
+      {
+        "seed": 200092,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.4037896963609686,
+        "seconds": 40.0,
+        "return": -13.980493506065116
+      },
+      {
+        "seed": 200093,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.6254750184774116,
+        "seconds": 40.0,
+        "return": -22.518532740557998
+      },
+      {
+        "seed": 200094,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6850228916395968,
+        "seconds": 40.0,
+        "return": -14.624409411525447
+      },
+      {
+        "seed": 200095,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.4624448074521643,
+        "seconds": 40.0,
+        "return": -21.839064613694585
+      },
+      {
+        "seed": 200096,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.1088403675395935,
+        "seconds": 40.0,
+        "return": -12.059761681713749
+      },
+      {
+        "seed": 200097,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.270159874367792,
+        "seconds": 40.0,
+        "return": -26.025644790431254
+      },
+      {
+        "seed": 200098,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.796293190273808,
+        "seconds": 40.0,
+        "return": -18.785509872831593
+      },
+      {
+        "seed": 200099,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.5886979824416476,
+        "seconds": 40.0,
+        "return": -17.519917418434265
+      },
+      {
+        "seed": 200100,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.6827109409648067,
+        "seconds": 40.0,
+        "return": -11.294934771966052
+      },
+      {
+        "seed": 200101,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.183031074488748,
+        "seconds": 40.0,
+        "return": -39.36119287854543
+      },
+      {
+        "seed": 200102,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8209068821231584,
+        "seconds": 40.0,
+        "return": -15.495803341605178
+      },
+      {
+        "seed": 200103,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.4589126126668495,
+        "seconds": 40.0,
+        "return": -28.10053747273138
+      },
+      {
+        "seed": 200104,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.9613310070749636,
+        "seconds": 40.0,
+        "return": -6.357008248212626
+      },
+      {
+        "seed": 200105,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.2671589707981246,
+        "seconds": 40.0,
+        "return": -29.168474765247034
+      },
+      {
+        "seed": 200106,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3230778764625892,
+        "seconds": 40.0,
+        "return": -14.37922459584451
+      },
+      {
+        "seed": 200107,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.626404468385023,
+        "seconds": 40.0,
+        "return": -3.147710863326679
+      },
+      {
+        "seed": 200108,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.2634049683472095,
+        "seconds": 40.0,
+        "return": -24.629649334875744
+      },
+      {
+        "seed": 200109,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.2456793352616575,
+        "seconds": 40.0,
+        "return": -12.361645447580806
+      },
+      {
+        "seed": 200110,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0966459224673308,
+        "seconds": 40.0,
+        "return": -22.76602231822568
+      },
+      {
+        "seed": 200111,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.7258829213656715,
+        "seconds": 40.0,
+        "return": -9.071805212973176
+      },
+      {
+        "seed": 200112,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.969139704037593,
+        "seconds": 40.0,
+        "return": -16.100663184081743
+      },
+      {
+        "seed": 200113,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.1043136206333575,
+        "seconds": 40.0,
+        "return": -20.26407568531705
+      },
+      {
+        "seed": 200114,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.491439052137438,
+        "seconds": 40.0,
+        "return": -25.465093348641865
+      },
+      {
+        "seed": 200115,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.6359832128648337,
+        "seconds": 40.0,
+        "return": -15.021885989909569
+      },
+      {
+        "seed": 200116,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8386083971529315,
+        "seconds": 40.0,
+        "return": -10.270961548862951
+      },
+      {
+        "seed": 200117,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3989841372202632,
+        "seconds": 40.0,
+        "return": -21.76416505732577
+      },
+      {
+        "seed": 200118,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 1.9711038349968795,
+        "seconds": 16.900000000000002,
+        "return": -17.11859646879644
+      },
+      {
+        "seed": 200119,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.52014786817855,
+        "seconds": 40.0,
+        "return": -17.210439505565883
+      },
+      {
+        "seed": 200120,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3582819526821088,
+        "seconds": 40.0,
+        "return": -30.67208521349118
+      },
+      {
+        "seed": 200121,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.477154239057191,
+        "seconds": 40.0,
+        "return": -26.428602053623756
+      },
+      {
+        "seed": 200122,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8072983055327994,
+        "seconds": 40.0,
+        "return": -20.416778633457856
+      },
+      {
+        "seed": 200123,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.99803401004272,
+        "seconds": 40.0,
+        "return": -15.259699497158344
+      },
+      {
+        "seed": 200124,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.5450611620167227,
+        "seconds": 40.0,
+        "return": -12.046437412114711
+      },
+      {
+        "seed": 200125,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.186931809130109,
+        "seconds": 40.0,
+        "return": -26.820840161513004
+      },
+      {
+        "seed": 200126,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.169305201270809,
+        "seconds": 40.0,
+        "return": -7.581185736092236
+      },
+      {
+        "seed": 200127,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.8809173613372394,
+        "seconds": 40.0,
+        "return": -27.85178565673373
+      },
+      {
+        "seed": 200128,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.3404932555898241,
+        "seconds": 40.0,
+        "return": -9.446772723713694
+      },
+      {
+        "seed": 200129,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0051341752974294,
+        "seconds": 40.0,
+        "return": -24.547488824366233
+      },
+      {
+        "seed": 200130,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8334401356791468,
+        "seconds": 40.0,
+        "return": -30.481185924588644
+      },
+      {
+        "seed": 200131,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.433563463065963,
+        "seconds": 40.0,
+        "return": -3.9538930089045166
+      },
+      {
+        "seed": 200132,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.819072531111559,
+        "seconds": 40.0,
+        "return": -31.653924142498614
+      },
+      {
+        "seed": 200133,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.299053071863141,
+        "seconds": 40.0,
+        "return": 2.8541874070615347
+      },
+      {
+        "seed": 200134,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8668113867113678,
+        "seconds": 40.0,
+        "return": -7.1568050892691994
+      },
+      {
+        "seed": 200135,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.7223674687284212,
+        "seconds": 40.0,
+        "return": -12.289311488502573
+      },
+      {
+        "seed": 200136,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.9309166657253028,
+        "seconds": 40.0,
+        "return": -26.167572567948593
+      },
+      {
+        "seed": 200137,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.877318844601651,
+        "seconds": 40.0,
+        "return": -23.16478077585954
+      },
+      {
+        "seed": 200138,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8559913107047514,
+        "seconds": 40.0,
+        "return": -10.383952186256636
+      },
+      {
+        "seed": 200139,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.156814598252033,
+        "seconds": 40.0,
+        "return": -20.225698778967836
+      },
+      {
+        "seed": 200140,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3488087497640022,
+        "seconds": 40.0,
+        "return": -31.145859702621603
+      },
+      {
+        "seed": 200141,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.4826681170155567,
+        "seconds": 40.0,
+        "return": -25.34828917372122
+      },
+      {
+        "seed": 200142,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.5612959849327828,
+        "seconds": 40.0,
+        "return": -30.533724667197035
+      },
+      {
+        "seed": 200143,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.4366778908058606,
+        "seconds": 40.0,
+        "return": -32.49451964083709
+      },
+      {
+        "seed": 200144,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0444099087175942,
+        "seconds": 40.0,
+        "return": -20.48708373027167
+      },
+      {
+        "seed": 200145,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.572107832229512,
+        "seconds": 40.0,
+        "return": -19.698572741727293
+      },
+      {
+        "seed": 200146,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.2623251598847394,
+        "seconds": 40.0,
+        "return": -6.890707141598679
+      },
+      {
+        "seed": 200147,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.474052641299211,
+        "seconds": 40.0,
+        "return": -23.7532020953065
+      },
+      {
+        "seed": 200148,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.031158170140734,
+        "seconds": 40.0,
+        "return": -7.824986536971439
+      },
+      {
+        "seed": 200149,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 4.378058060894168,
+        "seconds": 25.400000000000002,
+        "return": -30.994178037862298
+      },
+      {
+        "seed": 200150,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.7159971447774514,
+        "seconds": 40.0,
+        "return": -27.32703046705941
+      },
+      {
+        "seed": 200151,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.183735924942627,
+        "seconds": 40.0,
+        "return": -28.47606791464383
+      },
+      {
+        "seed": 200152,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 3.743506186493186,
+        "seconds": 34.800000000000004,
+        "return": -34.05841578772089
+      },
+      {
+        "seed": 200153,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.0327928915833358,
+        "seconds": 40.0,
+        "return": -34.87844246589552
+      },
+      {
+        "seed": 200154,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.051043341960907,
+        "seconds": 40.0,
+        "return": -18.92087596484153
+      },
+      {
+        "seed": 200155,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.1911511222541646,
+        "seconds": 40.0,
+        "return": -18.36256442624455
+      },
+      {
+        "seed": 200156,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.537588156790825,
+        "seconds": 40.0,
+        "return": -25.455873050818933
+      },
+      {
+        "seed": 200157,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.3204974387534913,
+        "seconds": 40.0,
+        "return": -25.696967469130925
+      },
+      {
+        "seed": 200158,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.270581871700309,
+        "seconds": 40.0,
+        "return": -8.833560788419057
+      },
+      {
+        "seed": 200159,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.0894894305002594,
+        "seconds": 40.0,
+        "return": -31.388527563764395
+      },
+      {
+        "seed": 200160,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 1.8898967369628903,
+        "seconds": 37.4,
+        "return": -36.46055869599193
+      },
+      {
+        "seed": 200161,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.5503593715310657,
+        "seconds": 40.0,
+        "return": -17.82718594940495
+      },
+      {
+        "seed": 200162,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.9627889718619284,
+        "seconds": 40.0,
+        "return": -12.608353833612346
+      },
+      {
+        "seed": 200163,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.2378383483778266,
+        "seconds": 40.0,
+        "return": -17.062114624698054
+      },
+      {
+        "seed": 200164,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0560748770009034,
+        "seconds": 40.0,
+        "return": -7.50790170063273
+      },
+      {
+        "seed": 200165,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8197442111230318,
+        "seconds": 40.0,
+        "return": -17.845208103642815
+      },
+      {
+        "seed": 200166,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.127196055947517,
+        "seconds": 40.0,
+        "return": -16.659754704251533
+      },
+      {
+        "seed": 200167,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 3.3295977288025704,
+        "seconds": 19.0,
+        "return": -25.301596883607218
+      },
+      {
+        "seed": 200168,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 2.6374356203635925,
+        "seconds": 38.6,
+        "return": -22.03558918705661
+      },
+      {
+        "seed": 200169,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6722751769003789,
+        "seconds": 40.0,
+        "return": -11.630840905558614
+      },
+      {
+        "seed": 200170,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0527086172162936,
+        "seconds": 40.0,
+        "return": -4.972516282239721
+      },
+      {
+        "seed": 200171,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3029340835327385,
+        "seconds": 40.0,
+        "return": -16.034993459010906
+      },
+      {
+        "seed": 200172,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.7131422763585222,
+        "seconds": 40.0,
+        "return": -22.66928649532609
+      },
+      {
+        "seed": 200173,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.286470795455898,
+        "seconds": 40.0,
+        "return": -20.87838324192657
+      },
+      {
+        "seed": 200174,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.2540571978320814,
+        "seconds": 40.0,
+        "return": -14.93056017260174
+      },
+      {
+        "seed": 200175,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.6100919107665934,
+        "seconds": 40.0,
+        "return": -21.087892879082357
+      },
+      {
+        "seed": 200176,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.6100755212424225,
+        "seconds": 40.0,
+        "return": -10.469618617772328
+      },
+      {
+        "seed": 200177,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.9944297535727036,
+        "seconds": 40.0,
+        "return": -9.271026510885815
+      },
+      {
+        "seed": 200178,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.2736471597884929,
+        "seconds": 40.0,
+        "return": -10.982081704277853
+      },
+      {
+        "seed": 200179,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.2396030073655506,
+        "seconds": 40.0,
+        "return": -4.944649041465524
+      },
+      {
+        "seed": 200180,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.286164614803368,
+        "seconds": 40.0,
+        "return": 2.286711015391707
+      },
+      {
+        "seed": 200181,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.234149666433364,
+        "seconds": 40.0,
+        "return": -24.282339334301476
+      },
+      {
+        "seed": 200182,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.2370936413862412,
+        "seconds": 40.0,
+        "return": -22.758532590201906
+      },
+      {
+        "seed": 200183,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3043340030244612,
+        "seconds": 40.0,
+        "return": -9.003508385130813
+      },
+      {
+        "seed": 200184,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.1577126806840212,
+        "seconds": 40.0,
+        "return": -12.863288327400378
+      },
+      {
+        "seed": 200185,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6978376699834651,
+        "seconds": 40.0,
+        "return": -9.206671741899989
+      },
+      {
+        "seed": 200186,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.114866933941541,
+        "seconds": 40.0,
+        "return": -18.947533257928345
+      },
+      {
+        "seed": 200187,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.1654652764892783,
+        "seconds": 40.0,
+        "return": -18.026660765277757
+      },
+      {
+        "seed": 200188,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.1312421770594154,
+        "seconds": 40.0,
+        "return": -15.226420325439
+      },
+      {
+        "seed": 200189,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3465010042299506,
+        "seconds": 40.0,
+        "return": -11.884231194700314
+      },
+      {
+        "seed": 200190,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.4945619926422387,
+        "seconds": 40.0,
+        "return": -15.316364458895906
+      },
+      {
+        "seed": 200191,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.894364620858471,
+        "seconds": 40.0,
+        "return": -27.051181572036814
+      },
+      {
+        "seed": 200192,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.5202646804851518,
+        "seconds": 40.0,
+        "return": -18.332507083152958
+      },
+      {
+        "seed": 200193,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.62262318648392,
+        "seconds": 40.0,
+        "return": -24.085247246350477
+      },
+      {
+        "seed": 200194,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 3.643658376710143,
+        "seconds": 29.6,
+        "return": -31.5154005673459
+      },
+      {
+        "seed": 200195,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.849336105451367,
+        "seconds": 40.0,
+        "return": -1.769230999088233
+      },
+      {
+        "seed": 200196,
+        "success": false,
+        "out_of_bounds": true,
+        "timeout": false,
+        "final_distance_m": 2.8383540603261235,
+        "seconds": 11.200000000000001,
+        "return": -9.694820730878945
+      },
+      {
+        "seed": 200197,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.422635542245448,
+        "seconds": 40.0,
+        "return": -23.35758274493853
+      },
+      {
+        "seed": 200198,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.129537911766978,
+        "seconds": 40.0,
+        "return": -18.93609082645421
+      },
+      {
+        "seed": 200199,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.880681744580946,
+        "seconds": 40.0,
+        "return": -15.108451532582288
+      }
+    ]
+  },
+  "heuristic": {
+    "episodes": 200,
+    "seed_start": 200000,
+    "randomized": true,
+    "successes": 23,
+    "success_rate": 0.115,
+    "success_95pct_interval": [
+      0.07786317221824318,
+      0.16664825233886393
+    ],
+    "out_of_bounds": 0,
+    "timeouts": 177,
+    "mean_final_distance_m": 1.427227305046361,
+    "mean_episode_seconds": 37.016,
+    "mean_return": 0.11726563643144758,
+    "action_counts": [
+      224,
+      1258,
+      1214,
+      35649,
+      35687
+    ],
+    "records": [
+      {
+        "seed": 200000,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.3143772311656625,
+        "seconds": 40.0,
+        "return": -1.82505844954528
+      },
+      {
+        "seed": 200001,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.2471563523306072,
+        "seconds": 40.0,
+        "return": -4.4441763542074755
+      },
+      {
+        "seed": 200002,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8253204225599697,
+        "seconds": 40.0,
+        "return": -18.938770246233886
+      },
+      {
+        "seed": 200003,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.08751235276433371,
+        "seconds": 16.2,
+        "return": 55.576236846673936
+      },
+      {
+        "seed": 200004,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.9666274406582076,
+        "seconds": 40.0,
+        "return": -20.008112145648838
+      },
+      {
+        "seed": 200005,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.47322171230612675,
+        "seconds": 40.0,
+        "return": -10.034505757260488
+      },
+      {
+        "seed": 200006,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.06844141829229024,
+        "seconds": 12.8,
+        "return": 52.815500100704355
+      },
+      {
+        "seed": 200007,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0134781937170314,
+        "seconds": 40.0,
+        "return": -9.35288699301749
+      },
+      {
+        "seed": 200008,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.5797273845191981,
+        "seconds": 40.0,
+        "return": -19.135977916135996
+      },
+      {
+        "seed": 200009,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.872821180456519,
+        "seconds": 40.0,
+        "return": 11.08593158613966
+      },
+      {
+        "seed": 200010,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.1375176975053807,
+        "seconds": 40.0,
+        "return": -12.088094432368404
+      },
+      {
+        "seed": 200011,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.056576131410409264,
+        "seconds": 6.5,
+        "return": 36.47773058593456
+      },
+      {
+        "seed": 200012,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.428669975710209,
+        "seconds": 40.0,
+        "return": -14.786372671859176
+      },
+      {
+        "seed": 200013,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.136000062748722,
+        "seconds": 40.0,
+        "return": -18.990489105529267
+      },
+      {
+        "seed": 200014,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.1329285738531198,
+        "seconds": 40.0,
+        "return": 1.2117162728233308
+      },
+      {
+        "seed": 200015,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0383619670088042,
+        "seconds": 40.0,
+        "return": -20.013883076426993
+      },
+      {
+        "seed": 200016,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.283652376718719,
+        "seconds": 40.0,
+        "return": -2.4296599904986866
+      },
+      {
+        "seed": 200017,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.7639885830123228,
+        "seconds": 40.0,
+        "return": -4.716366900400413
+      },
+      {
+        "seed": 200018,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.9340915619753708,
+        "seconds": 40.0,
+        "return": 3.874406790300549
+      },
+      {
+        "seed": 200019,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.872441639359303,
+        "seconds": 40.0,
+        "return": -6.707834770533853
+      },
+      {
+        "seed": 200020,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.7882984001103424,
+        "seconds": 40.0,
+        "return": -17.81026679419208
+      },
+      {
+        "seed": 200021,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8213954634152147,
+        "seconds": 40.0,
+        "return": -13.486336462748318
+      },
+      {
+        "seed": 200022,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.015136559996578,
+        "seconds": 40.0,
+        "return": -19.991843553077032
+      },
+      {
+        "seed": 200023,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0308918161998268,
+        "seconds": 40.0,
+        "return": -14.760917511456984
+      },
+      {
+        "seed": 200024,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.2702015256084682,
+        "seconds": 40.0,
+        "return": -11.015664484034161
+      },
+      {
+        "seed": 200025,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.1323281115196626,
+        "seconds": 40.0,
+        "return": -6.907024136081935
+      },
+      {
+        "seed": 200026,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.7709803536137911,
+        "seconds": 40.0,
+        "return": -17.690408464489735
+      },
+      {
+        "seed": 200027,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.3372017030622882,
+        "seconds": 40.0,
+        "return": -6.523773179957413
+      },
+      {
+        "seed": 200028,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.20228568354243168,
+        "seconds": 40.0,
+        "return": 12.467470973337655
+      },
+      {
+        "seed": 200029,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0262499053064777,
+        "seconds": 40.0,
+        "return": -19.980469629688876
+      },
+      {
+        "seed": 200030,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.4306550995607226,
+        "seconds": 40.0,
+        "return": -7.037777008669231
+      },
+      {
+        "seed": 200031,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.5934848926084424,
+        "seconds": 40.0,
+        "return": -4.541434261748609
+      },
+      {
+        "seed": 200032,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.2552266742831963,
+        "seconds": 40.0,
+        "return": -10.219348957356884
+      },
+      {
+        "seed": 200033,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8220249351927563,
+        "seconds": 40.0,
+        "return": 1.2431282948895492
+      },
+      {
+        "seed": 200034,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.1629293569107326,
+        "seconds": 40.0,
+        "return": -19.996755586503316
+      },
+      {
+        "seed": 200035,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.9181271354992326,
+        "seconds": 40.0,
+        "return": -13.225815127442564
+      },
+      {
+        "seed": 200036,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3813582206109316,
+        "seconds": 40.0,
+        "return": -11.48577904234074
+      },
+      {
+        "seed": 200037,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.5931639005553735,
+        "seconds": 40.0,
+        "return": -6.031826801923339
+      },
+      {
+        "seed": 200038,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.1627425101516706,
+        "seconds": 40.0,
+        "return": -2.103965686152826
+      },
+      {
+        "seed": 200039,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.822748835043012,
+        "seconds": 40.0,
+        "return": -10.462057871929291
+      },
+      {
+        "seed": 200040,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.06587014514700493,
+        "seconds": 37.300000000000004,
+        "return": 70.65026543332274
+      },
+      {
+        "seed": 200041,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.07424356614446967,
+        "seconds": 2.7,
+        "return": 42.775959585198635
+      },
+      {
+        "seed": 200042,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.5508903106194055,
+        "seconds": 40.0,
+        "return": -9.102381838754837
+      },
+      {
+        "seed": 200043,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.038799648284671875,
+        "seconds": 2.4000000000000004,
+        "return": 38.417518123478956
+      },
+      {
+        "seed": 200044,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.130341989692264,
+        "seconds": 40.0,
+        "return": -14.48412480559867
+      },
+      {
+        "seed": 200045,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.3412756648068607,
+        "seconds": 40.0,
+        "return": -6.034525111087707
+      },
+      {
+        "seed": 200046,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.210307063539804,
+        "seconds": 40.0,
+        "return": -17.520076010541757
+      },
+      {
+        "seed": 200047,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.6598450382785983,
+        "seconds": 40.0,
+        "return": -11.426453155071599
+      },
+      {
+        "seed": 200048,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.507345996850994,
+        "seconds": 40.0,
+        "return": -18.802606696783982
+      },
+      {
+        "seed": 200049,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.07138041503751051,
+        "seconds": 11.8,
+        "return": 48.52395659007638
+      },
+      {
+        "seed": 200050,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0653492365158206,
+        "seconds": 40.0,
+        "return": -17.810387960146596
+      },
+      {
+        "seed": 200051,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.1129813250147916,
+        "seconds": 40.0,
+        "return": 60.52750423313639
+      },
+      {
+        "seed": 200052,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.6603987330285261,
+        "seconds": 40.0,
+        "return": -13.420751066420847
+      },
+      {
+        "seed": 200053,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8576256996932876,
+        "seconds": 40.0,
+        "return": 22.466629283537852
+      },
+      {
+        "seed": 200054,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.3513232823028318,
+        "seconds": 40.0,
+        "return": 1.7914927071867162
+      },
+      {
+        "seed": 200055,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.056214068132825964,
+        "seconds": 7.4,
+        "return": 74.26983811170942
+      },
+      {
+        "seed": 200056,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8956675861023654,
+        "seconds": 40.0,
+        "return": -13.422864296573032
+      },
+      {
+        "seed": 200057,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04653075312917936,
+        "seconds": 23.200000000000003,
+        "return": 60.69421178596053
+      },
+      {
+        "seed": 200058,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.3012776817082848,
+        "seconds": 40.0,
+        "return": -6.333477859605612
+      },
+      {
+        "seed": 200059,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6627082180031056,
+        "seconds": 40.0,
+        "return": 12.53837065053657
+      },
+      {
+        "seed": 200060,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.1370829990425086,
+        "seconds": 40.0,
+        "return": -1.9305487866671922
+      },
+      {
+        "seed": 200061,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.035269425566547,
+        "seconds": 40.0,
+        "return": -20.012844737512463
+      },
+      {
+        "seed": 200062,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.06750368581088835,
+        "seconds": 25.3,
+        "return": 48.62215675979077
+      },
+      {
+        "seed": 200063,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.4396408582422395,
+        "seconds": 40.0,
+        "return": 0.37626915378432013
+      },
+      {
+        "seed": 200064,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.2581466942547905,
+        "seconds": 40.0,
+        "return": -18.01467306017402
+      },
+      {
+        "seed": 200065,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.9865372672064932,
+        "seconds": 40.0,
+        "return": -12.367564898638545
+      },
+      {
+        "seed": 200066,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.6981835518526722,
+        "seconds": 40.0,
+        "return": -19.98634616475225
+      },
+      {
+        "seed": 200067,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6810335307112658,
+        "seconds": 40.0,
+        "return": -4.783815478622077
+      },
+      {
+        "seed": 200068,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.5413301583777814,
+        "seconds": 40.0,
+        "return": -11.420174100229968
+      },
+      {
+        "seed": 200069,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.06351174105602712,
+        "seconds": 9.0,
+        "return": 31.800134783189847
+      },
+      {
+        "seed": 200070,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8527474681276282,
+        "seconds": 40.0,
+        "return": 21.670796588513994
+      },
+      {
+        "seed": 200071,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8391513111932893,
+        "seconds": 40.0,
+        "return": 3.1483614509673554
+      },
+      {
+        "seed": 200072,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.35337150169391246,
+        "seconds": 40.0,
+        "return": -15.471087702897613
+      },
+      {
+        "seed": 200073,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.1853841541434034,
+        "seconds": 40.0,
+        "return": -11.181741369180434
+      },
+      {
+        "seed": 200074,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.9704397369302353,
+        "seconds": 40.0,
+        "return": -1.3414261860840155
+      },
+      {
+        "seed": 200075,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0930765596068155,
+        "seconds": 40.0,
+        "return": -20.012633947517777
+      },
+      {
+        "seed": 200076,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.5835323967259534,
+        "seconds": 40.0,
+        "return": 15.290177287253083
+      },
+      {
+        "seed": 200077,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0950071625152327,
+        "seconds": 40.0,
+        "return": -13.415276015147004
+      },
+      {
+        "seed": 200078,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.9187621507609546,
+        "seconds": 40.0,
+        "return": 45.657176777451944
+      },
+      {
+        "seed": 200079,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.7880235134557702,
+        "seconds": 40.0,
+        "return": -8.972534078968353
+      },
+      {
+        "seed": 200080,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.997660021817036,
+        "seconds": 40.0,
+        "return": 9.852816591496682
+      },
+      {
+        "seed": 200081,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.400258435449984,
+        "seconds": 40.0,
+        "return": -20.038894862226826
+      },
+      {
+        "seed": 200082,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.44466774427493494,
+        "seconds": 40.0,
+        "return": 7.270613708387524
+      },
+      {
+        "seed": 200083,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.057507371431252,
+        "seconds": 40.0,
+        "return": -15.282947158873737
+      },
+      {
+        "seed": 200084,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.2317008753923773,
+        "seconds": 40.0,
+        "return": -4.518850096253491
+      },
+      {
+        "seed": 200085,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.78292036644015,
+        "seconds": 40.0,
+        "return": -11.80107905232316
+      },
+      {
+        "seed": 200086,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.9746737079017642,
+        "seconds": 40.0,
+        "return": -7.039629052593511
+      },
+      {
+        "seed": 200087,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.0761498928796817,
+        "seconds": 25.8,
+        "return": 62.98282860017705
+      },
+      {
+        "seed": 200088,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.039819082310687,
+        "seconds": 40.0,
+        "return": -8.733963026584346
+      },
+      {
+        "seed": 200089,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.545529952623003,
+        "seconds": 40.0,
+        "return": -13.349671741325643
+      },
+      {
+        "seed": 200090,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8164825477417392,
+        "seconds": 40.0,
+        "return": -13.28112907734531
+      },
+      {
+        "seed": 200091,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.07633953886909674,
+        "seconds": 11.4,
+        "return": 31.0799349744697
+      },
+      {
+        "seed": 200092,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0248091188116226,
+        "seconds": 40.0,
+        "return": -0.4959790673314576
+      },
+      {
+        "seed": 200093,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.7277337370140268,
+        "seconds": 40.0,
+        "return": -1.880000703973361
+      },
+      {
+        "seed": 200094,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8065215251268074,
+        "seconds": 40.0,
+        "return": -20.02687524870571
+      },
+      {
+        "seed": 200095,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3307398755994337,
+        "seconds": 40.0,
+        "return": 4.718558682623706
+      },
+      {
+        "seed": 200096,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0549116888391483,
+        "seconds": 40.0,
+        "return": -13.161544714202602
+      },
+      {
+        "seed": 200097,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.33443124426801196,
+        "seconds": 40.0,
+        "return": 20.15757096206326
+      },
+      {
+        "seed": 200098,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.7581384677526395,
+        "seconds": 40.0,
+        "return": -20.061641809802353
+      },
+      {
+        "seed": 200099,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.6010448682062657,
+        "seconds": 40.0,
+        "return": -19.998589562549785
+      },
+      {
+        "seed": 200100,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3717362635747077,
+        "seconds": 40.0,
+        "return": -5.625567837213567
+      },
+      {
+        "seed": 200101,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6788824412632327,
+        "seconds": 40.0,
+        "return": 2.0875229520924616
+      },
+      {
+        "seed": 200102,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.12269217554252727,
+        "seconds": 40.0,
+        "return": -0.26043567708939463
+      },
+      {
+        "seed": 200103,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.9012435640065817,
+        "seconds": 40.0,
+        "return": 14.296188743775339
+      },
+      {
+        "seed": 200104,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3719104628378587,
+        "seconds": 40.0,
+        "return": -12.441494642284992
+      },
+      {
+        "seed": 200105,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.0710728232909914,
+        "seconds": 6.9,
+        "return": 36.248678922431296
+      },
+      {
+        "seed": 200106,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.708718741974181,
+        "seconds": 40.0,
+        "return": -1.0552462336342945
+      },
+      {
+        "seed": 200107,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.1653837616526097,
+        "seconds": 40.0,
+        "return": -18.93719319501636
+      },
+      {
+        "seed": 200108,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.4339868030401541,
+        "seconds": 40.0,
+        "return": 0.1458047978006694
+      },
+      {
+        "seed": 200109,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.643616246588161,
+        "seconds": 40.0,
+        "return": 0.4549317692566165
+      },
+      {
+        "seed": 200110,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.039696627365706755,
+        "seconds": 7.1000000000000005,
+        "return": 38.30271005931494
+      },
+      {
+        "seed": 200111,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.06846738731784208,
+        "seconds": 7.6000000000000005,
+        "return": 66.88358313822258
+      },
+      {
+        "seed": 200112,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.7558029407629983,
+        "seconds": 40.0,
+        "return": -6.647244102216877
+      },
+      {
+        "seed": 200113,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.48821405004242363,
+        "seconds": 40.0,
+        "return": 18.47341357945637
+      },
+      {
+        "seed": 200114,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.2735367715816024,
+        "seconds": 40.0,
+        "return": 3.442463665254031
+      },
+      {
+        "seed": 200115,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.7502774155350487,
+        "seconds": 40.0,
+        "return": -20.039241056664935
+      },
+      {
+        "seed": 200116,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.909941850344087,
+        "seconds": 40.0,
+        "return": -14.414297878641818
+      },
+      {
+        "seed": 200117,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.9342479869966913,
+        "seconds": 40.0,
+        "return": -12.365761301736494
+      },
+      {
+        "seed": 200118,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.021041682763415788,
+        "seconds": 5.300000000000001,
+        "return": 67.52795733704015
+      },
+      {
+        "seed": 200119,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.543080550359709,
+        "seconds": 40.0,
+        "return": 10.961243439905138
+      },
+      {
+        "seed": 200120,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.5242810042945356,
+        "seconds": 40.0,
+        "return": -12.397061503801831
+      },
+      {
+        "seed": 200121,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.036717772398447,
+        "seconds": 40.0,
+        "return": -17.932690387155148
+      },
+      {
+        "seed": 200122,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.026896498221453354,
+        "seconds": 2.5,
+        "return": 35.603266549325795
+      },
+      {
+        "seed": 200123,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.057953144968111,
+        "seconds": 40.0,
+        "return": -19.132677870293154
+      },
+      {
+        "seed": 200124,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.6845422449052103,
+        "seconds": 40.0,
+        "return": 7.77653551567309
+      },
+      {
+        "seed": 200125,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8234293921021657,
+        "seconds": 40.0,
+        "return": -20.073279735814406
+      },
+      {
+        "seed": 200126,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8243399179773123,
+        "seconds": 40.0,
+        "return": -1.1970536537548553
+      },
+      {
+        "seed": 200127,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0676484484031505,
+        "seconds": 40.0,
+        "return": 15.689937166618536
+      },
+      {
+        "seed": 200128,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.6211377323782324,
+        "seconds": 40.0,
+        "return": -12.282884643423891
+      },
+      {
+        "seed": 200129,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.19439109522080916,
+        "seconds": 40.0,
+        "return": -0.5089118224507385
+      },
+      {
+        "seed": 200130,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.2354047705385824,
+        "seconds": 40.0,
+        "return": -17.995301796074497
+      },
+      {
+        "seed": 200131,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.9748420108375964,
+        "seconds": 40.0,
+        "return": -20.015856703195325
+      },
+      {
+        "seed": 200132,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8674425083247561,
+        "seconds": 40.0,
+        "return": -3.7931735728285436
+      },
+      {
+        "seed": 200133,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.1272471843069196,
+        "seconds": 40.0,
+        "return": -20.060665404032946
+      },
+      {
+        "seed": 200134,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0050223059409735,
+        "seconds": 40.0,
+        "return": -12.912078070009343
+      },
+      {
+        "seed": 200135,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.1483895587312118,
+        "seconds": 40.0,
+        "return": 5.955136261427647
+      },
+      {
+        "seed": 200136,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.5767402235216416,
+        "seconds": 40.0,
+        "return": -19.983161512857055
+      },
+      {
+        "seed": 200137,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8077662268964452,
+        "seconds": 40.0,
+        "return": 7.659034666770619
+      },
+      {
+        "seed": 200138,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.148938948249578,
+        "seconds": 40.0,
+        "return": -20.067643124877314
+      },
+      {
+        "seed": 200139,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.046740252000124,
+        "seconds": 40.0,
+        "return": -13.418840122670142
+      },
+      {
+        "seed": 200140,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.38766615416572786,
+        "seconds": 40.0,
+        "return": -9.217294812664742
+      },
+      {
+        "seed": 200141,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.997312182744098,
+        "seconds": 40.0,
+        "return": -9.16439081693475
+      },
+      {
+        "seed": 200142,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.887453835180842,
+        "seconds": 40.0,
+        "return": -16.397670923398454
+      },
+      {
+        "seed": 200143,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.0461555103558838,
+        "seconds": 8.4,
+        "return": 36.133539870412335
+      },
+      {
+        "seed": 200144,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.8402134618440746,
+        "seconds": 40.0,
+        "return": -17.867172558433673
+      },
+      {
+        "seed": 200145,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.1695571804988882,
+        "seconds": 40.0,
+        "return": -5.794806448461699
+      },
+      {
+        "seed": 200146,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.642600498197889,
+        "seconds": 40.0,
+        "return": -18.82259059942743
+      },
+      {
+        "seed": 200147,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.1775649560702395,
+        "seconds": 40.0,
+        "return": -19.096009964582198
+      },
+      {
+        "seed": 200148,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.805348269849647,
+        "seconds": 40.0,
+        "return": 20.900260970305723
+      },
+      {
+        "seed": 200149,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.4513312019581965,
+        "seconds": 40.0,
+        "return": -6.57100656446299
+      },
+      {
+        "seed": 200150,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.04772120866312903,
+        "seconds": 13.100000000000001,
+        "return": 46.909867935798616
+      },
+      {
+        "seed": 200151,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.7227571203287046,
+        "seconds": 40.0,
+        "return": -19.00159779929575
+      },
+      {
+        "seed": 200152,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.062443234692642444,
+        "seconds": 35.300000000000004,
+        "return": 89.7231580072926
+      },
+      {
+        "seed": 200153,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0694869517066947,
+        "seconds": 40.0,
+        "return": -6.5857939689794405
+      },
+      {
+        "seed": 200154,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0017519376036352,
+        "seconds": 40.0,
+        "return": -13.308590855909772
+      },
+      {
+        "seed": 200155,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0402024826047946,
+        "seconds": 40.0,
+        "return": -16.88884843501029
+      },
+      {
+        "seed": 200156,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0524726822695016,
+        "seconds": 40.0,
+        "return": -9.07798618778582
+      },
+      {
+        "seed": 200157,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.2788910462499121,
+        "seconds": 40.0,
+        "return": 49.188192343458596
+      },
+      {
+        "seed": 200158,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0869843464794835,
+        "seconds": 40.0,
+        "return": -0.3936226578984099
+      },
+      {
+        "seed": 200159,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.283486993152359,
+        "seconds": 40.0,
+        "return": 12.246533369933154
+      },
+      {
+        "seed": 200160,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3781008731622728,
+        "seconds": 40.0,
+        "return": -10.355662100976486
+      },
+      {
+        "seed": 200161,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.553125273309678,
+        "seconds": 40.0,
+        "return": -19.841333493870245
+      },
+      {
+        "seed": 200162,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.7438819812036369,
+        "seconds": 40.0,
+        "return": -3.195679067155047
+      },
+      {
+        "seed": 200163,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0395846099399562,
+        "seconds": 40.0,
+        "return": 11.29922883624875
+      },
+      {
+        "seed": 200164,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.353945841938201,
+        "seconds": 40.0,
+        "return": -11.03967582406516
+      },
+      {
+        "seed": 200165,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.2003031403662728,
+        "seconds": 40.0,
+        "return": -4.394181334723845
+      },
+      {
+        "seed": 200166,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.8108421985291991,
+        "seconds": 40.0,
+        "return": -11.055908268793539
+      },
+      {
+        "seed": 200167,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.664401968997874,
+        "seconds": 40.0,
+        "return": -3.7567028884897993
+      },
+      {
+        "seed": 200168,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.664589506130059,
+        "seconds": 40.0,
+        "return": -15.46443633121826
+      },
+      {
+        "seed": 200169,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.9232606105791815,
+        "seconds": 40.0,
+        "return": -13.395476747528674
+      },
+      {
+        "seed": 200170,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.5906980396962513,
+        "seconds": 40.0,
+        "return": 9.96774815576133
+      },
+      {
+        "seed": 200171,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3629766740172824,
+        "seconds": 40.0,
+        "return": -13.391058221124496
+      },
+      {
+        "seed": 200172,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.5054108061234561,
+        "seconds": 40.0,
+        "return": -19.92099973944945
+      },
+      {
+        "seed": 200173,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.1667589581780176,
+        "seconds": 40.0,
+        "return": -13.465587309979528
+      },
+      {
+        "seed": 200174,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3106826667825102,
+        "seconds": 40.0,
+        "return": -18.956196896362446
+      },
+      {
+        "seed": 200175,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.015165603756779,
+        "seconds": 40.0,
+        "return": -8.179735203836959
+      },
+      {
+        "seed": 200176,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.6647253220377747,
+        "seconds": 40.0,
+        "return": -14.280863637656115
+      },
+      {
+        "seed": 200177,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.816844619833856,
+        "seconds": 40.0,
+        "return": -1.13139816741464
+      },
+      {
+        "seed": 200178,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.5478517054586267,
+        "seconds": 40.0,
+        "return": -13.347195346031189
+      },
+      {
+        "seed": 200179,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.7352976653467156,
+        "seconds": 40.0,
+        "return": -20.017015490994673
+      },
+      {
+        "seed": 200180,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.017465089010186514,
+        "seconds": 28.6,
+        "return": 86.16919916022124
+      },
+      {
+        "seed": 200181,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.9284651323169801,
+        "seconds": 40.0,
+        "return": -12.195225981391859
+      },
+      {
+        "seed": 200182,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.7880916644976594,
+        "seconds": 40.0,
+        "return": -14.153483167987343
+      },
+      {
+        "seed": 200183,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.0536700496982163,
+        "seconds": 40.0,
+        "return": 1.553090448025302
+      },
+      {
+        "seed": 200184,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.0322477287141796,
+        "seconds": 40.0,
+        "return": -12.056664528154313
+      },
+      {
+        "seed": 200185,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.041058707413416,
+        "seconds": 40.0,
+        "return": -19.917197677648744
+      },
+      {
+        "seed": 200186,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.029734031719875,
+        "seconds": 40.0,
+        "return": -19.0292107023867
+      },
+      {
+        "seed": 200187,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.7333427244480752,
+        "seconds": 40.0,
+        "return": -9.55359696424769
+      },
+      {
+        "seed": 200188,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.16620675277770414,
+        "seconds": 40.0,
+        "return": 61.88446528160375
+      },
+      {
+        "seed": 200189,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.3260456312270505,
+        "seconds": 40.0,
+        "return": -13.9928468696278
+      },
+      {
+        "seed": 200190,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.2472684102844903,
+        "seconds": 40.0,
+        "return": -5.339024899952193
+      },
+      {
+        "seed": 200191,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.512874756835955,
+        "seconds": 40.0,
+        "return": -19.988934971473917
+      },
+      {
+        "seed": 200192,
+        "success": true,
+        "out_of_bounds": false,
+        "timeout": false,
+        "final_distance_m": 0.05112758125720947,
+        "seconds": 16.6,
+        "return": 49.6009203975456
+      },
+      {
+        "seed": 200193,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 0.41678807583575966,
+        "seconds": 40.0,
+        "return": 10.090630519853491
+      },
+      {
+        "seed": 200194,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 2.398592026111191,
+        "seconds": 40.0,
+        "return": 2.9462581976279503
+      },
+      {
+        "seed": 200195,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.9779062519496722,
+        "seconds": 40.0,
+        "return": -0.9134846615458668
+      },
+      {
+        "seed": 200196,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.037226377772889,
+        "seconds": 40.0,
+        "return": -19.966628667048038
+      },
+      {
+        "seed": 200197,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.1556503929472066,
+        "seconds": 40.0,
+        "return": -18.82795401248255
+      },
+      {
+        "seed": 200198,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 1.6375861866722874,
+        "seconds": 40.0,
+        "return": -8.942297699086941
+      },
+      {
+        "seed": 200199,
+        "success": false,
+        "out_of_bounds": false,
+        "timeout": true,
+        "final_distance_m": 3.640346637800301,
+        "seconds": 40.0,
+        "return": -11.210073863066146
+      }
+    ]
+  }
+}

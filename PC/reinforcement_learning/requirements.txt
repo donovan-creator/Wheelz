@@ -1,0 +1,10 @@
+gymnasium==1.2.2
+numpy>=2.0,<3
+pygame>=2.6,<3
+stable-baselines3==2.7.1
+torch>=2.6,<3
+tensorboard>=2.20,<3
+tqdm>=4.67,<5
+rich>=14,<15
+onnx>=1.19,<2
+onnxruntime>=1.23,<2

@@ -1,3 +1,5 @@
+> **Historical overview:** The active host runtime is now ROS 2. See the [current project README](../README.md) and [ROS setup guide](../ros2_ws/README.md). The feature descriptions below include earlier plans and are not a list of implemented ROS capabilities.
+
 # 🤖 Autonomous Robot Car – Core Code
 
 This repository contains the full **software stack** for my self-built autonomous robot car.  

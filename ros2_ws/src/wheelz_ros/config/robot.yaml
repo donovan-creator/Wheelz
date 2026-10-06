@@ -1,0 +1,27 @@
+# All parameters are read-only at runtime. Restart the launch after editing.
+wheelz_driver:
+  ros__parameters:
+    poll_hz: 10.0
+    http_timeout_s: 0.2
+    command_timeout_s: 0.5
+    linear_deadband: 0.01
+    angular_deadband: 0.05
+    # In the checked-in firmware /right is left-reverse, right-forward.
+    # Verify with wheels lifted; change to left if physical wiring reverses yaw.
+    positive_yaw_action: right
+    wheel_diameter_m: 0.043
+    # Estimate from existing RL config, not a measurement of the assembled robot.
+    track_width_m: 0.16632
+    # ZERO disables odometry. Measure counts per OUTPUT wheel revolution.
+    # Firmware counts RISING edges of A only, not 4x quadrature.
+    ticks_per_revolution: 0.0
+    left_encoder_sign: 1
+    right_encoder_sign: 1
+    max_plausible_wheel_speed_mps: 1.0
+    # MPU6050 initialize() defaults: +/-2g, +/-250 deg/s. Verify your library.
+    accel_lsb_per_g: 16384.0
+    gyro_lsb_per_degree_s: 131.0
+    base_frame: base_link
+    odom_frame: odom
+    imu_frame: imu_link
+    publish_odom_tf: true
